@@ -1,0 +1,6 @@
+C:\CursoProgramar\Exercicios_e_Testes_Vs_windows\Pedido_de_Clientes\Camada_Model_VO\bin\Debug\Camada_Model_VO.dll
+C:\CursoProgramar\Exercicios_e_Testes_Vs_windows\Pedido_de_Clientes\Camada_Model_VO\bin\Debug\Camada_Model_VO.pdb
+C:\CursoProgramar\Exercicios_e_Testes_Vs_windows\Pedido_de_Clientes\Camada_Model_VO\obj\Debug\Camada_Model_VO.csproj.AssemblyReference.cache
+C:\CursoProgramar\Exercicios_e_Testes_Vs_windows\Pedido_de_Clientes\Camada_Model_VO\obj\Debug\Camada_Model_VO.csproj.CoreCompileInputs.cache
+C:\CursoProgramar\Exercicios_e_Testes_Vs_windows\Pedido_de_Clientes\Camada_Model_VO\obj\Debug\Camada_Model_VO.dll
+C:\CursoProgramar\Exercicios_e_Testes_Vs_windows\Pedido_de_Clientes\Camada_Model_VO\obj\Debug\Camada_Model_VO.pdb
